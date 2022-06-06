@@ -1,7 +1,7 @@
 # PROJETO_GOVERNANCA_EM_TI
 
 #  Integrantes do grupo:
-  Bruno Paiva
+  Bruno Paiva \n
   Celso Gustavo
   Danilo da Silva
   Danilo Gama
